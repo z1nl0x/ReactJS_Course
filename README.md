@@ -1,1 +1,1 @@
-## All the code snippets realted to the course React - The Complete Guide
+## All the code snippets related to the course React - The Complete Guide from Academind
